@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     
     let userName = "realUser"
+    let address = "Some Address"
 
     override func viewDidLoad() {
         super.viewDidLoad()
